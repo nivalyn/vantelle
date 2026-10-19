@@ -1,0 +1,7 @@
+id = "vantelle"
+name = "Vantelle"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nival"]
+description = "Personal"
+repository = "https://github.com/your-name/my-zed-extension"
